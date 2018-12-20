@@ -1,7 +1,6 @@
 ---
-title: "Compare morphology analysis"
-date: 2019-10-20 08:26:28 -0400
-categories: NLP
+layout: post
+title: Compare morphology analysis
 ---
 
 (c) DYsong 2018
